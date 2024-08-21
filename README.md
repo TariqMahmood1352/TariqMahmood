@@ -55,7 +55,7 @@ I'm Dr. Tariq Mahmood a Data Scientist | ML & Quantum Computing | Python & C++ |
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ismailramzan.ismailramzan)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=TariqMahmood1352.TariqMahmood1352)
 
 <details>
 <summary>
@@ -69,6 +69,6 @@ I have expertise in Python, TensorFlow, PyTorch, Qiskit, and machine learning, i
 
 #### Github Stats
 
-![ismailramzan's github stats](https://github-readme-stats.vercel.app/api?username=ismailramzan&show_icons=true&theme=tokyonight&count_private=true)
+![ismailramzan's github stats](https://github-readme-stats.vercel.app/api?username=TariqMahmood1352&show_icons=true&theme=tokyonight&count_private=true)
 
 </details>
