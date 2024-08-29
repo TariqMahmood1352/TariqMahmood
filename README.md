@@ -49,7 +49,7 @@ I'm Dr. Tariq Mahmood a Data Scientist | ML & Quantum Computing | Python & C++ |
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/TariqMahmood1352/TariqMahmood/blob/main/Tariq%20Mahmood-CV.pdf)
+- :paperclip: [My Resume/CV](https://github.com/TariqMahmood1352/TariqMahmood/blob/main/Resume.pdf)
 - :email: tariqmahmood_16@hotmail.com
 
 
