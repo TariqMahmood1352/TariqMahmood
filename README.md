@@ -69,6 +69,6 @@ I have expertise in Python, TensorFlow, PyTorch, Qiskit, and machine learning, i
 
 #### Github Stats
 
-![ismailramzan's github stats](https://github-readme-stats.vercel.app/api?username=TariqMahmood1352&show_icons=true&theme=tokyonight&count_private=true)
+![Tariqmahmood's github stats](https://github-readme-stats.vercel.app/api?username=TariqMahmood1352&show_icons=true&theme=tokyonight&count_private=true)
 
 </details>
